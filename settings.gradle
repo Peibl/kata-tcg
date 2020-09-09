@@ -1,0 +1,4 @@
+rootProject.name = 'kata'
+include 'core'
+include 'ui'
+
